@@ -1,0 +1,4 @@
+
+2. 安装依赖模块：pip install -r requirements.txt
+5. 启动命令：python run_server.py
+6. 默认端口是8000，地址本机ip
