@@ -1,0 +1,293 @@
+2021-04-09 10:35:44,383 ERROR [root][test01_login.py(setUpClass:38)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:37:23,054 ERROR [root][test01_login.py(setUpClass:38)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:37:23,056 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,061 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,063 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,064 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,066 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,067 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,068 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:23,070 ERROR [root][test01_login.py(test_login:82)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:37:26,437 ERROR [root][test02_cart.py(setUp:24)] - [test_cart]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:45:40,929 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:45:43,947 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:45:46,955 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:45:49,965 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:45:52,980 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:45:55,993 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:45:59,005 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:46:02,015 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:46:05,028 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:46:08,512 ERROR [root][test02_cart.py(setUp:24)] - [test_cart]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:48:55,693 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:48:58,703 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:01,717 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:04,732 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:07,733 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:10,747 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:13,760 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:16,774 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:19,784 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:49:23,154 ERROR [root][test02_cart.py(setUp:24)] - [test_cart]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:50:15,928 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-09 10:50:18,940 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:21,958 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:24,964 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:27,978 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:30,985 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:33,995 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:37,003 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:50:40,018 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:36,401 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 10:55:39,409 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:42,426 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:45,441 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:48,447 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:51,464 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:54,473 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:55:57,490 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 10:56:00,503 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:07:50,611 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:07:53,621 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:07:56,642 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:07:59,651 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:02,662 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:05,673 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:08,682 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:11,699 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:14,715 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:32,446 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:08:35,451 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:38,459 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:41,470 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:44,487 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:47,495 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:50,509 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:53,526 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:08:56,534 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 11:15:38,644 INFO [root][base.py(__init__:15)] - [base]:正在获取初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="38177736f318abe2ff26c544ef7879a2")>
+2021-04-09 11:15:38,644 INFO [root][page_login.py(page_click_login_link:13)] - [page_login]:正在执行:('partial link text', '登录')点击链接操作
+2021-04-09 11:15:38,644 INFO [root][base.py(base_click:29)] - [base]:正在对:('partial link text', '登录')元素进行点击事件
+2021-04-09 11:15:38,644 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('partial link text', '登录')元素,默认超时时间为:30
+2021-04-09 11:16:08,737 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: 
+
+2021-04-09 11:16:11,749 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：8888
+2021-04-09 11:16:11,749 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 11:16:11,750 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:16:32,894 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:16:32,895 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:16:48,039 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：，密码：123456，验证码：8888
+2021-04-09 11:16:48,039 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：操作
+2021-04-09 11:16:48,040 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:17:00,157 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:17:00,157 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:17:15,281 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：，验证码：8888
+2021-04-09 11:17:15,281 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 11:17:15,282 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:17:27,371 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:17:27,371 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:17:42,491 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：
+2021-04-09 11:17:42,491 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 11:17:42,492 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:17:54,579 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:17:54,579 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:18:09,731 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：13811112222，密码：123456，验证码：8888
+2021-04-09 11:18:09,731 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：13811112222操作
+2021-04-09 11:18:09,732 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:18:21,853 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:18:21,853 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:18:36,961 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：188111122222，密码：123456，验证码：8888
+2021-04-09 11:18:36,961 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：188111122222操作
+2021-04-09 11:18:36,962 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:18:49,030 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:18:49,030 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:19:04,167 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123123，验证码：8888
+2021-04-09 11:19:04,168 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 11:19:04,168 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:19:16,283 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:19:16,283 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 11:19:31,399 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：6666
+2021-04-09 11:19:31,399 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 11:19:31,400 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 11:19:43,495 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=89.0.4389.114)
+
+2021-04-09 11:19:43,495 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:12:13,876 INFO [root][base.py(__init__:15)] - [base]:正在获取初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="ecd0b8fa9b8b7f348a77871193cfadae")>
+2021-04-09 13:12:13,877 INFO [root][page_login.py(page_click_login_link:13)] - [page_login]:正在执行:('partial link text', '登录')点击链接操作
+2021-04-09 13:12:13,877 INFO [root][base.py(base_click:29)] - [base]:正在对:('partial link text', '登录')元素进行点击事件
+2021-04-09 13:12:13,877 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('partial link text', '登录')元素,默认超时时间为:30
+2021-04-09 13:12:44,120 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: 
+
+2021-04-09 13:12:47,133 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：8888
+2021-04-09 13:12:47,133 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:12:47,134 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:13:17,199 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:13:17,199 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:13:20,659 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：，密码：123456，验证码：8888
+2021-04-09 13:13:20,659 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：操作
+2021-04-09 13:13:20,660 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:13:45,026 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: chrome not reachable
+  (Session info: chrome=88.0.4324.190)
+
+2021-04-09 13:13:45,027 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:14:00,172 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：，验证码：8888
+2021-04-09 13:14:00,172 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:14:00,173 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:14:23,954 INFO [root][base.py(__init__:15)] - [base]:正在获取初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="539863795116e2c7f0cb4c0b3497c302")>
+2021-04-09 13:14:23,955 INFO [root][page_login.py(page_click_login_link:13)] - [page_login]:正在执行:('partial link text', '登录')点击链接操作
+2021-04-09 13:14:23,955 INFO [root][base.py(base_click:29)] - [base]:正在对:('partial link text', '登录')元素进行点击事件
+2021-04-09 13:14:23,955 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('partial link text', '登录')元素,默认超时时间为:30
+2021-04-09 13:14:54,261 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: 
+
+2021-04-09 13:14:57,268 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：8888
+2021-04-09 13:14:57,268 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:14:57,269 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:15:27,746 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:15:27,746 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:15:31,111 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：，密码：123456，验证码：8888
+2021-04-09 13:15:31,112 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：操作
+2021-04-09 13:15:31,112 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:16:01,169 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:16:01,169 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:16:04,537 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：，验证码：8888
+2021-04-09 13:16:04,537 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:16:04,538 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:16:34,581 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:16:34,581 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:16:37,928 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：
+2021-04-09 13:16:37,928 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:16:37,929 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:17:07,982 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:17:07,983 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:17:11,368 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：13811112222，密码：123456，验证码：8888
+2021-04-09 13:17:11,368 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：13811112222操作
+2021-04-09 13:17:11,369 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:17:41,374 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:17:41,374 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:17:44,670 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：188111122222，密码：123456，验证码：8888
+2021-04-09 13:17:44,670 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：188111122222操作
+2021-04-09 13:17:44,671 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:18:14,830 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:18:14,831 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:18:18,185 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123123，验证码：8888
+2021-04-09 13:18:18,186 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:18:18,186 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:18:48,656 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:18:48,656 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:18:52,003 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：6666
+2021-04-09 13:18:52,003 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:18:52,004 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:19:22,428 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:19:22,429 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:28:45,801 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=88.0.4324.190)
+
+2021-04-09 13:28:48,817 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:28:51,831 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:28:54,843 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:28:57,851 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:29:00,864 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:29:03,874 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:29:06,887 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:29:09,895 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：'NoneType' object has no attribute 'page_login'
+2021-04-09 13:29:26,204 INFO [root][base.py(__init__:15)] - [base]:正在获取初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="7614cdfa36dc736b1e236471dd5f188b")>
+2021-04-09 13:29:26,204 INFO [root][page_login.py(page_click_login_link:13)] - [page_login]:正在执行:('partial link text', '登录')点击链接操作
+2021-04-09 13:29:26,204 INFO [root][base.py(base_click:29)] - [base]:正在对:('partial link text', '登录')元素进行点击事件
+2021-04-09 13:29:26,205 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('partial link text', '登录')元素,默认超时时间为:30
+2021-04-09 13:29:56,425 ERROR [root][test01_login.py(setUpClass:40)] - [test_login]:出错：Message: 
+
+2021-04-09 13:29:59,428 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：8888
+2021-04-09 13:29:59,428 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:29:59,429 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:30:29,700 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:30:29,700 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:30:33,060 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：，密码：123456，验证码：8888
+2021-04-09 13:30:33,061 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：操作
+2021-04-09 13:30:33,061 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:31:03,145 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:31:03,145 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:31:06,664 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：，验证码：8888
+2021-04-09 13:31:06,665 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:31:06,665 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:31:36,743 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:31:36,743 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:31:40,191 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：
+2021-04-09 13:31:40,191 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:31:40,192 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:32:10,647 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:32:10,647 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:32:14,100 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：13811112222，密码：123456，验证码：8888
+2021-04-09 13:32:14,101 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：13811112222操作
+2021-04-09 13:32:14,101 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:32:44,606 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:32:44,607 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:32:48,048 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：188111122222，密码：123456，验证码：8888
+2021-04-09 13:32:48,048 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：188111122222操作
+2021-04-09 13:32:48,049 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:33:18,511 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:33:18,511 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:33:21,956 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123123，验证码：8888
+2021-04-09 13:33:21,957 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:33:21,957 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:33:52,306 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:33:52,306 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图
+2021-04-09 13:33:55,815 INFO [root][page_login.py(page_login:58)] - [page_login]:正在执行登录操作，用户名：18811112222，密码：123456，验证码：6666
+2021-04-09 13:33:55,815 INFO [root][page_login.py(page_input_username:18)] - [page_login]:对：('css selector', '#username')元素输入用户名：18811112222操作
+2021-04-09 13:33:55,815 INFO [root][base.py(base_find_element:22)] - [base]:正在定位:('css selector', '#username')元素,默认超时时间为:30
+2021-04-09 13:34:26,251 ERROR [root][test01_login.py(test_login:85)] - [test_login]:出错：Message: 
+
+2021-04-09 13:34:26,252 INFO [root][base.py(base_get_image:47)] - [base]:断言出错，调用截图

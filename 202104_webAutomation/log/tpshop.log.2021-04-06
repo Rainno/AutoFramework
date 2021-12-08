@@ -1,0 +1,6 @@
+2021-04-06 11:19:41,252 ERROR [root][test01_login.py(setUpClass:38)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
+2021-04-06 11:20:04,420 ERROR [root][test01_login.py(setUpClass:38)] - [test_login]:出错：Message: session not created: This version of ChromeDriver only supports Chrome version 88
+Current browser version is 80.0.3987.87 with binary path C:\Users\Rainno\AppData\Local\Google\Chrome\Application\chrome.exe
+
